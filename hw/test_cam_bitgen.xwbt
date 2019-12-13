@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\UECCI\Desktop\pruebas camd2\hw\test_cam.ncd
+OUTFILE=C:\Users\UECCI\Desktop\pruebas camd2\hw\test_cam.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\UECCI\Desktop\pruebas camd2\hw
+LICENSE=ISE
+USER_INFO=211538560_0_0_568

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/UECCI/Documents/GitHub/digital1/work03-simulacion-OV7670/hw/test_cam_TB_isim_beh.exe" -prj "C:/Users/UECCI/Documents/GitHub/digital1/work03-simulacion-OV7670/hw/test_cam_TB_beh.prj" "work.test_cam_TB" "work.glbl" 

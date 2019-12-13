@@ -8,3 +8,4 @@ Time resolution is 1 ps
 # run 30 ms
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
+Stopped at time : 8887585 ns : File "C:/Users/UECCI/Documents/GitHub/digital1/work03-simulacion-OV7670/hw/src/test_cam_TB.v" Line 77

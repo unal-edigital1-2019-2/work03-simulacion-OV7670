@@ -14,7 +14,7 @@ Luego de tener el diseño "cam_read.v" deben integrar el bloque HDL en el test_c
 
 Como se observa en la figura anterior, el bloque en rojo indican que el grupo de trabajo deben adicionar dicha información al proyecto **test_cam.xise** para completar el funcionamiento.
 
-Para este paquete de trabajo, el estudiante deben estar inscrito en un grupo y copiar la información del siguiente link [WP03](https://classroom.github.com/g/fTcztVJQgg) .
+Para este paquete de trabajo, el estudiante deben estar inscrito en un grupo y copiar la información del siguiente link [WP03](https://classroom.github.com/g/dq2gMMs9) .
 Debe escribir la documentación en el archivo README.md de la carpeta docs. Recuerde, esta documentación debe ser tal que, cualquier compañero de futuros semestres comprenda sus anotaciones y la relación con los módulos diseñados.
 
 ***Recuerde: Revisar las instrucciones dadas en metodología y documentación.***
@@ -23,7 +23,7 @@ Debe escribir la documentación en el archivo README.md de la carpeta docs. Recu
 
 Para este paquete de trabajo se debe contar con:
 
-* Plantilla del proyecto sugerido [WP03](https://classroom.github.com/g/fTcztVJQgg) .
+* Plantilla del proyecto sugerido [WP03](https://classroom.github.com/g/dq2gMMs9) .
 * testbench test_cam_TB.v (dado por el profesor)
 * Datasheet de la cámara OV7670.
 * HDL cam_read.v  diseñado por el grupo
